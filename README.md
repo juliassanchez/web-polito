@@ -1,6 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8AapHqUJ)
-# Exam #N:1 "CMSmall"
-## Student: s306658 SÁNCHEZ JULIA 
+
+# Web - Polito
+## Julia Sánchez Esquivel
+
+Creation of a web application from scratch
 
 ## React Client Application Routes
 
