@@ -1,8 +1,6 @@
 
 # Web - Polito
-## Julia Sánchez Esquivel
-
-Creation of a web application from scratch
+## Creation of a web application from scratch
 
 ## React Client Application Routes
 
